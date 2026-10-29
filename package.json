@@ -1,0 +1,34 @@
+
+{
+  "name": "rn-debug-vault",
+  "version": "0.1.1",
+  "description": "Lightweight local-first debugging and error logging for React Native apps",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "files": [
+    "src/index.js"
+  ],
+  "keywords": [
+    "react-native",
+    "debugging",
+    "logger",
+    "error-logging",
+    "mobile-development"
+  ],
+  "license": "MIT",
+  
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arif-cloud-js/rn-debug-vault.git"
+  },
+  "homepage": "https://github.com/Arif-cloud-js/rn-debug-vault#readme",
+  "bugs": {
+    "url": "https://github.com/Arif-cloud-js/rn-debug-vault/issues"
+  }
+
+
+}
